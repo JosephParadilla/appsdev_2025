@@ -1,0 +1,10 @@
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\SimpleFormsAppWithComboBox.exe.config
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\SimpleFormsAppWithComboBox.exe
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\SimpleFormsAppWithComboBox.pdb
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.csproj.AssemblyReference.cache
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.Form1.resources
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.Properties.Resources.resources
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.csproj.GenerateResource.cache
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.csproj.CoreCompileInputs.cache
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.exe
+C:\Users\abell\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\SimpleFormsAppWithComboBox.pdb
